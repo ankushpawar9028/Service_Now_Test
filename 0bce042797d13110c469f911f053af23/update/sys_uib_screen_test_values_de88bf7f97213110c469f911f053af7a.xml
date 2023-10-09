@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config/>
+        <screen display_value="leaveRequest default">1e88bf7f97213110c469f911f053af77</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 07:33:49</sys_created_on>
+        <sys_id>de88bf7f97213110c469f911f053af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave management System" source="x_1072152_lms">0bce042797d13110c469f911f053af23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave management System">0bce042797d13110c469f911f053af23</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_de88bf7f97213110c469f911f053af7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 07:33:49</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

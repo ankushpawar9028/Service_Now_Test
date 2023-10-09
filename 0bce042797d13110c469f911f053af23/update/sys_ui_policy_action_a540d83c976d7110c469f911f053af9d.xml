@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>duration</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 06:57:25</sys_created_on>
+        <sys_id>a540d83c976d7110c469f911f053af9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>duration</sys_name>
+        <sys_package display_value="Leave management System" source="x_1072152_lms">0bce042797d13110c469f911f053af23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave management System">0bce042797d13110c469f911f053af23</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a540d83c976d7110c469f911f053af9d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 06:57:25</sys_updated_on>
+        <table>x_1072152_lms_leave_reaquest</table>
+        <ui_policy display_value="make field mandatory">cbdeccf8976d7110c469f911f053af5f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
