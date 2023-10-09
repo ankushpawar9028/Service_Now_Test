@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>designforLMS</name>
+        <source>local</source>
+        <sp_css display_value="designforLMS">2a5ffaa397613110c469f911f053af42</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 08:47:07</sys_created_on>
+        <sys_id>aebf7aa397613110c469f911f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>designforLMS</sys_name>
+        <sys_package display_value="Leave management System" source="x_1072152_lms">0bce042797d13110c469f911f053af23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave management System">0bce042797d13110c469f911f053af23</sys_scope>
+        <sys_update_name>sp_css_include_aebf7aa397613110c469f911f053af19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 08:47:07</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1072152_lms.leave_bucket_user" name="x_1072152_lms.leave_bucket_user">3fac60b797113110c469f911f053afb7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 06:27:28</sys_created_on>
+        <sys_id>7fac60b797113110c469f911f053afb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3fac60b797113110c469f911f053afb7</sys_name>
+        <sys_package display_value="Leave management System" source="x_1072152_lms">0bce042797d13110c469f911f053af23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave management System">0bce042797d13110c469f911f053af23</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7fac60b797113110c469f911f053afb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 06:27:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
